@@ -1,0 +1,20 @@
+can use both flight number or route to search-- use generics to make this happen in same place
+
+try making a company of flights to all flights as covariance -- like when only one company operates flights to that area
+
+interface, types of classes and inheritace -- during regualr code which probably have very small functionality
+
+three tier data architecture-- when using database
+
+enumeration-- 
+
+annonymus functions and lambdas -- anywhere in the code
+
+error handling try catch -- when using database
+
+overloading overriding methods and constructors during implementing the inheretance would be best
+
+boxing and unboxing if possible
+
+make two homepages for customer and for admin 
+loginpage only for admin and custoer directly go to the home page. There will be a link to login for the admin
